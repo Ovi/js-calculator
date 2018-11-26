@@ -6,4 +6,4 @@ Simple Calculator Using Javascript
 
 Made as an assignment while learning Javascript
 
-Domo: https://oyeovi.github.io/js-calculator
+Domo: https://muhammadovi.github.io/js-calculator
